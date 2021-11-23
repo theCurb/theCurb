@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theCurb, Computer science student and process engineer
+- 👀 I’m interested in quantum computing, profitable solutions and food businesses
+- 🌱 I’m currently learning C++, PHP and mySQL
+- 💞️ I’m looking to collaborate on anything that interests me and I am capable of assisting in
+- 📫 How to reach me Instagram @curbyleewilliams 
