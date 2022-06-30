@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @theCurb, Computer science student and process engineer
-- 👀 I’m interested in quantum computing and solution focused businesses
-- 🌱 I’m currently learning C++, PHP and mySQL - I have learnt HTML, CSS and Javascript
-- Proficient with elementor and wordpress
-- 💞️ I’m looking to collaborate on anything that interests me and I am capable of assisting in
-- 📫 How to reach me Instagram @curbyleewilliams 
+- 👋 Hi, I’m @theCurb, Web Developer who started out as a chemical engineer
+- 👀 I’m interested in quantum computing, robotics and ethically positive businesses
